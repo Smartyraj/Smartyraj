@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smartyraj&label=Profile%20views&color=0e75b6&style=flat" alt="smartyraj" /> </p>
 
-- 🌱 I’m currently learning **Javascript, React.js, DSA, etc.**
+- 🌱 I’m currently learning **React.js**
 
-- 💬 Ask me about **HTML, CSS, Js, Sql.**
+- 💬 Ask me about **HTML, CSS, Javascript, Bootstrap, TailwindCSS, and, Sql.**
 
 - 📫 How to reach me **https://www.linkedin.com/in/rajkishor-sah/**
 
